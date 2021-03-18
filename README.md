@@ -1,5 +1,5 @@
 # FinansalBT
 
 Deneme
-Ödev için hazırlanmış bir projeydi.
+Finansal BT
 Test
